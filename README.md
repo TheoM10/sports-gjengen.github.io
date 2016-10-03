@@ -1,1 +1,1 @@
-# sports-gjengen.github.io
+# http//:sports-gjengen.no
